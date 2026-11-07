@@ -3,4 +3,4 @@ uvicorn
 joblib
 pandas
 scikit-learn
-pydantic
+requests
